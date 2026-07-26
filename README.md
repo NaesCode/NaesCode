@@ -1,10 +1,5 @@
 <div data-importer="border" align="center">
-  <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=160&section=header&reversal=false&text=Sean%20Richard%20O.%20Tadiamon%20&fontSize=40&fontColor=FFFFFF&fontAlign=50&fontAlignY=37&stroke=-&animation=fadeIn&color=gradient" />
-  <div style="margin-top: -60px; position: relative;">
-    <a href="https://git.io/typing-svg">
-      <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=18&duration=4000&pause=1000&color=FFFFFF&center=true&vCenter=true&width=750&height=30&lines=Computer+Engineering+Student+%7C+Full+Stack+Developer+%7C+System+Engineer" alt="Typing SVG" />
-    </a>
-  </div>
+  <img width="100%" src="assets/header.svg" alt="Header Banner" />
 </div>
 
 <div data-importer="socials" align="center">
