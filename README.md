@@ -33,7 +33,7 @@
 
 <h2 data-importer="text" align="left">ℹ️ About Me</h2>
 
-<p data-importer="text" align="left">I'm currently studying Bachelor of Science in Computer Engineering in Cebu Institute of Technology - University. I'm a tech enthusiast who specialize in Embedded Systems and Web Development. I am also into Automation and Data Analytics.<br><br>I am xerophyte — meaning I can adapt to any environment. But that doesn't mean I ignore details. I value accountability over title. I am a manager, but also a student. I am a tactile learner so I prefer hands-on experience. If it is in my name, delivery is my game. Nothing more, nothing less.</p>
+<p data-importer="text" align="left">I'm currently studying a Bachelor of Science in Computer Engineering at Cebu Institute of Technology - University. I'm a tech enthusiast who specializes in Embedded Systems and Web Development. I am also into Automation and Data Analytics.<br><br>I am a xerophyte — meaning I can adapt to any environment. But that doesn't mean I don't have boundaries. I value accountability over title. I am a manager, but also a student. I am a tactile learner, so I prefer hands-on experience. If it is in my name, delivery is my game. Nothing more, nothing less.</p>
 
 <br>
 
