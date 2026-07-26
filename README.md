@@ -98,9 +98,9 @@
 <h1 data-importer="text" align="left">📊 Stats</h1>
 
 <div data-importer="stats" align="left">
-  <img src="https://streak-stats.demolab.com?user=NaesCode&locale=en&mode=weekly&theme=gruvbox&hide_border=false&border_radius=5&order=3" height="150" alt="streak graph" />
-  <img src="https://github-readme-stats.vercel.app/api?username=NaesCode&hide_title=false&hide_rank=false&show_icons=true&theme=gruvbox&locale=en&hide_border=false&custom_title=My%20Stats" height="150" alt="stats graph" />
-  <img src="https://raw.githubusercontent.com/NaesCode/NaesCode/languages-output/languages.svg" height="150" alt="languages graph" />
+  <img src="https://streak-stats.demolab.com?user=NaesCode&locale=en&mode=weekly&theme=gruvbox&hide_border=false&border_radius=5&order=3" height="150" alt="streak graph"  />
+  <img src="https://raw.githubusercontent.com/NaesCode/NaesCode/stats-output/stats.svg" height="150" alt="stats graph"  />
+  <img src="https://raw.githubusercontent.com/NaesCode/NaesCode/languages-output/languages.svg?locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=gruvbox&hide_border=false&order=2" height="150" alt="languages graph"  />
 </div>
 
 <br>
