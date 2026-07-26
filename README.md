@@ -1,5 +1,10 @@
-<div data-importer="border">
-  <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=160&section=header&reversal=false&text=Sean%20Richard%20O.%20Tadiamon%20&fontSize=40&fontColor=FFFFFF&fontAlign=50&fontAlignY=37&stroke=-&animation=fadeIn&desc=Computer%20Engineering%20Student%20%7C%20Full%20Stack%20Developer%20%7C%20System%20Engineer&descSize=20&descAlign=50&descAlignY=63&color=gradient" />
+<div data-importer="border" align="center">
+  <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=160&section=header&reversal=false&text=Sean%20Richard%20O.%20Tadiamon%20&fontSize=40&fontColor=FFFFFF&fontAlign=50&fontAlignY=37&stroke=-&animation=fadeIn&color=gradient" />
+  <div style="margin-top: -60px; position: relative;">
+    <a href="https://git.io/typing-svg">
+      <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=18&duration=4000&pause=1000&color=FFFFFF&center=true&vCenter=true&width=750&height=30&lines=Computer+Engineering+Student+%7C+Full+Stack+Developer+%7C+System+Engineer" alt="Typing SVG" />
+    </a>
+  </div>
 </div>
 
 <div data-importer="socials" align="center">
@@ -15,10 +20,10 @@
   <a href="https://discord.com/users/745190598444843012" target="_blank">
     <img src="https://img.shields.io/static/v1?message=Discord&logo=discord&label=&color=7289DA&logoColor=white&labelColor=&style=for-the-badge" height="30" alt="discord logo" />
   </a>
-  <a href="mailto:seantadiamon@gmail.com" target="_blank">
+  <a href="https://mail.google.com/mail/?view=cm&fs=1&to=seantadiamon@gmail.com" target="_blank">
     <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="30" alt="gmail logo" />
   </a>
-  <a href="mailto:seanrichard.tadiamon@cit.edu" target="_blank">
+  <a href="https://outlook.office.com/mail/deeplink/compose?to=seanrichard.tadiamon@cit.edu" target="_blank">
     <img src="https://img.shields.io/static/v1?message=Outlook&logo=microsoft-outlook&label=&color=0078D4&logoColor=white&labelColor=&style=for-the-badge" height="30" alt="microsoft-outlook logo" />
   </a>
 </div>
