@@ -1,5 +1,5 @@
 <div data-importer="border" align="center">
-  <img width="100%" src="assets/header.svg" alt="Header Banner" />
+  <img width="100%" src="readme-assets/header.svg" alt="Header Banner" />
 </div>
 
 <div data-importer="socials" align="center">
