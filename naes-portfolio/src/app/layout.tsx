@@ -1,5 +1,6 @@
 import type { Metadata } from "next";
-import { Geist, Geist_Mono, Figtree } from "next/font/google";
+import { Geist, Geist_Mono, Figtree, JetBrains_Mono, Hanken_Grotesk } from "next/font/google";
+
 import "./globals.css";
 import { cn } from "@/lib/utils";
 
@@ -12,6 +13,17 @@ const geistSans = Geist({
 
 const geistMono = Geist_Mono({
   variable: "--font-geist-mono",
+  subsets: ["latin"],
+});
+
+const jetbrainsMono = JetBrains_Mono({
+  variable: "--font-jetbrains-mono",
+  subsets: ["latin"],
+});
+
+
+const hankenGrotesk = Hanken_Grotesk({
+  variable: "--font-hanken-grotesk",
   subsets: ["latin"],
 });
 
@@ -28,7 +40,7 @@ export default function RootLayout({
   return (
     <html
       lang="en"
-      className={cn("h-full", "antialiased", geistSans.variable, geistMono.variable, "font-sans", figtree.variable)}
+      className={cn("h-full", "antialiased", geistSans.variable, geistMono.variable, jetbrainsMono.variable, hankenGrotesk.variable, "font-sans", figtree.variable)}
     >
       <body className="min-h-full flex flex-col">{children}</body>
     </html>
